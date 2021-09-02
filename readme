@@ -8,3 +8,7 @@
 - maderia
 -  matrix - indexing and slicing: 
 - numpy
+- pandas
+- torchvision.transforms
+- ToTensor and Lambda.
+- linear layer
