@@ -37,3 +37,14 @@ https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
 - to asi zanedba minusove hodnoty a pak všechno co není nula tak aktivuje neuron :-) (redneck pochopení)
 
 nn.Sequential
+
+
+nn.Softmax
+ [-infty, infty] - posledni layer (logits) uděla [0, 1]
+
+ Backpropagation 
+--------------------
+ https://cs.wikipedia.org/wiki/Algoritmus_zp%C4%9Btn%C3%A9ho_%C5%A1%C3%AD%C5%99en%C3%AD_chyby
+
+
+ https://cs.wikipedia.org/wiki/Gradientn%C3%AD_sestup
