@@ -15,7 +15,7 @@
 - linear layer
 - nn.Module
 - nn.Softmax
-
+- nn -- ingeneral
 
 flatten = nn.Flatten()
 - this creates string of 01 of each bite from image
@@ -44,6 +44,9 @@ nn.Softmax
 
  Backpropagation 
 --------------------
+video
+https://www.youtube.com/watch?v=tIeHLnjs5U8
+
  https://cs.wikipedia.org/wiki/Algoritmus_zp%C4%9Btn%C3%A9ho_%C5%A1%C3%AD%C5%99en%C3%AD_chyby
 <img width="1018" alt="Snímek obrazovky 2021-09-05 v 12 08 58" src="https://user-images.githubusercontent.com/3868751/132124623-a6d712b3-573f-4111-8904-25c77d8b1f82.png">
 
@@ -54,3 +57,30 @@ Gradientni sestup
  hledaní lokálního minima funkce :-)
 
  https://cs.wikipedia.org/wiki/Gradientn%C3%AD_sestup
+
+ -- autograd v podstatě propoji jednotlivé listy stromu asi teda
+
+ Optimizinig model
+ -------------------
+ https://cs.wikipedia.org/wiki/Derivace
+ 
+ - hyperparameter tuning
+ 	learning_rate = 1e-3
+	batch_size = 64
+	epochs = 5
+
+ - Optimization Loop
+The Train Loop - iterate over the training dataset and try to converge to optimal parameters.
+The Validation/Test Loop - iterate over the test dataset to check if model performance is improving.
+
+https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html#full-impl-label
+
+ - Loss function 
+ - Optimizer
+ 	
+
+
+
+
+ 
+
