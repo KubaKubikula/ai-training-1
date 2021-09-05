@@ -45,9 +45,12 @@ nn.Softmax
  Backpropagation 
 --------------------
  https://cs.wikipedia.org/wiki/Algoritmus_zp%C4%9Btn%C3%A9ho_%C5%A1%C3%AD%C5%99en%C3%AD_chyby
+<img width="1018" alt="Snímek obrazovky 2021-09-05 v 12 08 58" src="https://user-images.githubusercontent.com/3868751/132124623-a6d712b3-573f-4111-8904-25c77d8b1f82.png">
 
 Gradientni sestup
 --------------------
  https://cs.wikipedia.org/wiki/Gradientn%C3%AD_sestup
 
  hledaní lokálního minima funkce :-)
+
+ https://cs.wikipedia.org/wiki/Gradientn%C3%AD_sestup
