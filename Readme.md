@@ -46,5 +46,8 @@ nn.Softmax
 --------------------
  https://cs.wikipedia.org/wiki/Algoritmus_zp%C4%9Btn%C3%A9ho_%C5%A1%C3%AD%C5%99en%C3%AD_chyby
 
-
+Gradientni sestup
+--------------------
  https://cs.wikipedia.org/wiki/Gradientn%C3%AD_sestup
+
+ hledaní lokálního minima funkce :-)
