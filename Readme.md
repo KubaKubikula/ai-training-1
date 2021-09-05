@@ -1,3 +1,4 @@
+<img width="604" alt="Snímek obrazovky 2021-09-05 v 11 43 38" src="https://user-images.githubusercontent.com/3868751/132124102-469f4589-1f3c-49e6-a9cf-1fa9c1b9f207.png">
 
 - neural network
 - lost function 
