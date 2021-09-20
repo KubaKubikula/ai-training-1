@@ -87,3 +87,5 @@ Numpy
 - ndarray.itemsize
 - ndarray.data
 
+https://jupyter.org/install
+
