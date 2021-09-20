@@ -88,4 +88,5 @@ Numpy
 - ndarray.data
 
 https://jupyter.org/install
+command cmd: jupyter-lab
 
