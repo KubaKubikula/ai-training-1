@@ -79,8 +79,11 @@ https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html#full-im
  - Optimizer
  	
 
-
-
-
- 
+Numpy
+- ndarray.ndim
+- ndarray.shape
+- ndarray.size
+- ndarray.dtype
+- ndarray.itemsize
+- ndarray.data
 
