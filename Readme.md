@@ -106,3 +106,6 @@ https://cs.wikipedia.org/wiki/Minimax_(algoritmus)
 
 http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html
 
+tradebot
+
+https://www.youtube.com/watch?v=wq3uLSDJxUQ
