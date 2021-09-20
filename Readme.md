@@ -100,3 +100,5 @@ https://en.wikipedia.org/wiki/Evaluation_function#In_chess
 
 https://en.wikipedia.org/wiki/Beam_search
 
+https://cs.wikipedia.org/wiki/Minimax_(algoritmus)
+
