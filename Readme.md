@@ -102,3 +102,5 @@ https://en.wikipedia.org/wiki/Beam_search
 
 https://cs.wikipedia.org/wiki/Minimax_(algoritmus)
 
+http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html
+
