@@ -96,3 +96,5 @@ https://matplotlib.org/
 
 <img width="629" alt="Snímek obrazovky 2021-09-20 v 15 29 34" src="https://user-images.githubusercontent.com/3868751/134020059-e355a460-89fa-466f-a93f-edb537de2353.png">
 
+https://en.wikipedia.org/wiki/Evaluation_function#In_chess
+
