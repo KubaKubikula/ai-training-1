@@ -109,3 +109,5 @@ http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html
 tradebot
 
 https://www.youtube.com/watch?v=wq3uLSDJxUQ
+
+https://www.google.com/search?q=How+does+the+Bollinger+band+work?&sxsrf=AOaemvKYJAOQq-ff6LbBkNHhZN4XbZw_YQ:1632168777657&tbm=isch&source=iu&ictx=1&fir=k1dHd0HbSgfe_M%252CPmcauhYgnOevGM%252C_&vet=1&usg=AI4_-kSNsjd-Nfdk36SXJhZxnFRp4H3E0Q&sa=X&ved=2ahUKEwiBj9LBro7zAhXVEcAKHb70BdAQ9QF6BAgOEAE&biw=1440&bih=796&dpr=2#imgrc=k1dHd0HbSgfe_M
