@@ -98,3 +98,5 @@ https://matplotlib.org/
 
 https://en.wikipedia.org/wiki/Evaluation_function#In_chess
 
+https://en.wikipedia.org/wiki/Beam_search
+
