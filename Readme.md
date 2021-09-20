@@ -92,3 +92,4 @@ command cmd: jupyter-lab
 
 https://cs.wikipedia.org/wiki/MATLAB
 
+https://matplotlib.org/
