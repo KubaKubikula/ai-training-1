@@ -115,3 +115,5 @@ https://www.google.com/search?q=How+does+the+Bollinger+band+work?&sxsrf=AOaemvKY
 https://cs.wikipedia.org/wiki/Index_relativn%C3%AD_s%C3%ADly
 
 https://aws.amazon.com/getting-started/
+
+https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
