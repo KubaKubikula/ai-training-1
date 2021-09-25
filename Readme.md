@@ -119,3 +119,5 @@ https://aws.amazon.com/getting-started/
 https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
 
 https://github.com/encode/uvicorn
+
+I have car / I have gasmoney
