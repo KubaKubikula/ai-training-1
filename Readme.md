@@ -120,4 +120,6 @@ https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
 
 https://github.com/encode/uvicorn
 
+https://ai.googleblog.com/
+
 I have car / I have gasmoney
