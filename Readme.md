@@ -122,6 +122,8 @@ https://github.com/encode/uvicorn
 
 https://ai.googleblog.com/
 
+https://www.analyticsvidhya.com/blog/2021/05/analyzing-the-cryptocurrency-of-may-2021-python-for-finance-basics/
+
 I have car / I have gasmoney
 vpn
 digit nastenny kalendár
